@@ -25,3 +25,7 @@
 *.out
 *.app
 XO_TeamTest/XO_TeamTest.VC.VC.opendb
+XO_TeamTest/XO_TeamTest/XO_TeamTest.vcxproj
+XO_TeamTest/XO_TeamTest/XO_TeamTest.vcxproj.filters
+XO_TeamTest/XO_TeamTest.VC.db
+XO_TeamTest/XO_TeamTest/CTile.cpp

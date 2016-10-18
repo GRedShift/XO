@@ -15,6 +15,8 @@ int main()
 
 		window.clear(sf::Color::Magenta);
 
+
+
 		window.display();
 	}
 	

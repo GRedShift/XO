@@ -1,4 +1,3 @@
-#include "Player.h"
 #include "CPlayer.h"
 
 CPlayer::CPlayer()
